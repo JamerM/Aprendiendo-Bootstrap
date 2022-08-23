@@ -1,0 +1,21 @@
+.navbar img {
+width: 120px;
+height:auto
+
+}
+main .carousel-inner img {
+max-height: 70vh;
+}
+footer{
+    background-color:rgb(15, 58, 149)   
+}
+#footer a{
+    color:antiquewhite
+
+}
+body{
+    position: relative;
+}
+main{
+    margin-bottom: 220px;
+}
